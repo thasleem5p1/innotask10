@@ -56,15 +56,4 @@ BestBuy.com is an e-commerce web application that widely provides Tech-Gadgets a
   <hr>
   <h4>Service Page</h4>
   <img src="/bestbuyss/Screenshot (2138).png" alt="Bestbuy ScreenShot currently unavailable"/>
-<h2>Team Members :</h2>
-  <li><a href="https://github.com/gautam6023">Gautam Gohil</a></li>
-  <li><a href="https://github.com/ShubhamShewale98">Shubham Shewale</a></li>
-  <li><a href="https://github.com/amananshul">Aman Dubey</a></li>
-  <li><a href="https://github.com/AtulKumar69">Atul Kumar Panigrahi</a></li>
-  <li><a href="https://github.com/Himanshu0316">Himanshu</a></li>
-  <li><a href="https://github.com/Debasree-3031999">Debasree Ghosh</a></li>
- <hr>
-  
-<h2>Author</h2>
-  <li><a href="https://github.com/Debasree-3031999">@Debasree Ghosh</a></li>
 
